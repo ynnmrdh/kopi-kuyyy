@@ -1,0 +1,222 @@
+{
+  "Arabica": [
+    {
+      "nama": "Kopi Arabika Sidikalang",
+      "size": "1.000 Gram",
+      "harga": "148.000",
+      "foto": "https://rikikurnia.com/prakerja/api/img/1.jpg",
+      "link": "https://www.tokopedia.com/sopic-store/kopi-arabika-sidikalang-1000-gr-biji"
+    },
+    {
+      "nama": "Kopi Arabica Aceh Gayo Super",
+      "size": "500 Gram",
+      "harga": "58.000",
+      "foto": "https://rikikurnia.com/prakerja/api/img/2.jpg",
+      "link": "https://www.tokopedia.com/sopic-store/kopi-arabica-aceh-gayo-super-500-gr-bubuk-kasar"
+    },
+    {
+      "nama": "Kopi Arabica Gayo Honey Process",
+      "size": "1.000 Gram",
+      "harga": "200.000",
+      "foto": "https://rikikurnia.com/prakerja/api/img/3.jpg",
+      "link": "https://www.tokopedia.com/sopic-store/kopi-arabica-gayo-honey-process-1-kg-bubuk-halus"
+    },
+    {
+      "nama": "Kopi Arabica Gayo Premium Specialty",
+      "size": "200 Gram",
+      "harga": "49.000",
+      "foto": "https://rikikurnia.com/prakerja/api/img/4.jpg",
+      "link": "https://www.tokopedia.com/sopic-store/kopi-arabica-gayo-premium-specialty-200-gr-bubuk-biji-grosir-biji"
+    },
+    {
+      "nama": "Kopi Luwak Liar Arabica Gayo",
+      "size": "1.000 Gram",
+      "harga": "280.000",
+      "foto": "https://rikikurnia.com/prakerja/api/img/5.jpg",
+      "link": "https://www.tokopedia.com/sopic-store/kopi-luwak-liar-arabica-gayo-1kg-biji-bubuk-bubuk-halus"
+    },
+    {
+      "nama": "Kopi Arabica Gayo Peaberry",
+      "size": "500 Gram",
+      "harga": "105.000",
+      "foto": "https://rikikurnia.com/prakerja/api/img/6.jpg",
+      "link": "https://www.tokopedia.com/sopic-store/kopi-arabica-gayo-peaberry-jantan-500-gr-bubuk-biji-biji"
+    },
+    {
+      "nama": "Kopi Arabica Gayo Wine",
+      "size": "500 Gram",
+      "harga": "118.000",
+      "foto": "https://rikikurnia.com/prakerja/api/img/7.jpg",
+      "link": "https://www.tokopedia.com/sopic-store/kopi-arabika-gayo-wine-500-gr-biji-bubuk-grosir-reseller-dropshiper-bubuk-halus"
+    }
+  ],
+  "Robusta": [
+    {
+      "nama": "Kopi Aceh Robusta Gayo Natural Premium",
+      "size": "250 Gram",
+      "harga": "25.000",
+      "foto": "https://rikikurnia.com/prakerja/api/img/8.jpg",
+      "link": "https://www.tokopedia.com/sopic-store/kopi-aceh-robusta-gayo-natural-premium-250-gr-bubuk-kasar"
+    },
+    {
+      "nama": "Kopi Robusta Natural Sidikalang Premium",
+      "size": "500 Gram",
+      "harga": "40.000",
+      "foto": "https://rikikurnia.com/prakerja/api/img/9.jpg",
+      "link": "https://www.tokopedia.com/sopic-store/kopi-robusta-natural-sidikalang-premium-500-gr-biji"
+    }
+  ],
+  "Non Kopi": [
+    {
+      "nama": "Es Krim Mangkok",
+      "size": "250 Gram",
+      "harga": "25.000",
+      "foto": "https://p0.pxfuel.com/preview/861/839/598/ice-ice-cream-ice-cream-sundae-sweet.jpg",
+      "link": "https://www.tokopedia.com/jakartagrosirjaya/aice-vanilla-chocolate-sundae-ice-cream-eskrim-800-ml"
+    },
+    {
+      "nama": "Lemon Tea",
+      "size": "250 Gram",
+      "harga": "25.000",
+      "foto": "https://veganbell.com/wp-content/uploads/2020/08/Iced-Lemon-Tea-3-1536x1536.jpg",
+      "link": "https://www.tokopedia.com/jakartagrosirjaya/aice-vanilla-chocolate-sundae-ice-cream-eskrim-800-ml"
+    },
+    {
+      "nama": "Teh Es",
+      "size": "250 Gram",
+      "harga": "10.000",
+      "foto": "https://www.tehsariwangi.com/uploads/ar/article/411/534206a1a98f74d0dd5b195c88a31dc3.jpg",
+      "link": "hhttps://id.images.search.yahoo.com/search/images;_ylt=Awr1RVCY3VtmmZ41BAbLQwx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=teh+es&fr2=piv-web&type=E210ID91215G0&fr=mcafee#id=4&iurl=https%3A%2F%2Fwww.tehsariwangi.com%2Fuploads%2Far%2Farticle%2F411%2F534206a1a98f74d0dd5b195c88a31dc3.jpg&action=click"
+    },
+    {
+      "nama": "Jus Al Pukat",
+      "size": "250 Gram",
+      "harga": "10.000",
+      "foto": "http://2.bp.blogspot.com/-gL8ihSXCeao/VLTWyBsEp9I/AAAAAAAAKsI/Ma-uihkQW04/s1600/Jus-Alpukat.jpg",
+      "link": "hhttps://id.images.search.yahoo.com/search/images;_ylt=Awr1RVCY3VtmmZ41BAbLQwx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=teh+es&fr2=piv-web&type=E210ID91215G0&fr=mcafee#id=4&iurl=https%3A%2F%2Fwww.tehsariwangi.com%2Fuploads%2Far%2Farticle%2F411%2F534206a1a98f74d0dd5b195c88a31dc3.jpg&action=click"
+    },
+    {
+      "nama": "Jus Mangga",
+      "size": "250 Gram",
+      "harga": "10.000",
+      "foto": "https://4.bp.blogspot.com/-xbAwIsVhctQ/UpSTPLyWl4I/AAAAAAAAADA/uqr_4MOduZk/s1600/manfaat-jus-mangga.jpg",
+      "link": "hhttps://id.images.search.yahoo.com/search/images;_ylt=Awr1RVCY3VtmmZ41BAbLQwx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=teh+es&fr2=piv-web&type=E210ID91215G0&fr=mcafee#id=4&iurl=https%3A%2F%2Fwww.tehsariwangi.com%2Fuploads%2Far%2Farticle%2F411%2F534206a1a98f74d0dd5b195c88a31dc3.jpg&action=click"
+    },
+    {
+      "nama": "Jus Buah Naga",
+      "size": "250 Gram",
+      "harga": "10.000",
+      "foto": "https://cdn1-production-images-kly.akamaized.net/cT1qHZipEud8l-y9M7og2QJ6za4=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2338494/original/090787200_1535012040-6.21_NAT_Pitaya_Wordpress-Body-Image.jpg",
+      "link": "hhttps://id.images.search.yahoo.com/search/images;_ylt=Awr1RVCY3VtmmZ41BAbLQwx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=teh+es&fr2=piv-web&type=E210ID91215G0&fr=mcafee#id=4&iurl=https%3A%2F%2Fwww.tehsariwangi.com%2Fuploads%2Far%2Farticle%2F411%2F534206a1a98f74d0dd5b195c88a31dc3.jpg&action=click"
+    },
+    {
+      "nama": "Jus Terong Belanda",
+      "size": "250 Gram",
+      "harga": "10.000",
+      "foto": "http://bibitbunga.com/wp-content/uploads/2014/09/jus-terong-belanda.jpg",
+      "link": "hhttps://id.images.search.yahoo.com/search/images;_ylt=Awr1RVCY3VtmmZ41BAbLQwx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=teh+es&fr2=piv-web&type=E210ID91215G0&fr=mcafee#id=4&iurl=https%3A%2F%2Fwww.tehsariwangi.com%2Fuploads%2Far%2Farticle%2F411%2F534206a1a98f74d0dd5b195c88a31dc3.jpg&action=click"
+    },
+    {
+      "nama": "Jus Wortel dan Tomat",
+      "size": "250 Gram",
+      "harga": "10.000",
+      "foto": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/10/2023/10/04/6-904004748.jpeg",
+      "link": "hhttps://id.images.search.yahoo.com/search/images;_ylt=Awr1RVCY3VtmmZ41BAbLQwx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=teh+es&fr2=piv-web&type=E210ID91215G0&fr=mcafee#id=4&iurl=https%3A%2F%2Fwww.tehsariwangi.com%2Fuploads%2Far%2Farticle%2F411%2F534206a1a98f74d0dd5b195c88a31dc3.jpg&action=click"
+    }
+  ],
+  "gorengan": [
+    {
+      "nama": "Kentang Goreng",
+      "size": "100ml",
+      "harga": "10.000",
+      "link": "#",
+      "foto": "https://1.bp.blogspot.com/-IHjt2oZsCdI/XeTgssqcBZI/AAAAAAAABv0/gjFjyoEe0iw9Ec8vRu0KJ52gj22_axoLQCLcBGAsYHQ/s1600/Resep%2BKentang%2BGoreng%2BAla%2BKFC%2Bdan%2BMcD%2B%2528ikich.com%2529.jpg"
+    },
+    {
+      "nama": "Kentang Goreng",
+      "size": "100ml",
+      "harga": "10.000",
+      "link": "#",
+      "foto": "https://1.bp.blogspot.com/-1y11PmmW_Po/XgGkcKiQI_I/AAAAAAAAHhg/bm62YytDu34DWOlI4iq50T75ncQWULDiQCLcBGAsYHQ/s640/6-kreasi-cara-membuat-nugget-rumahan-yang-mudah-murah-dan-meriah.jpg"
+    },
+    {
+      "nama": "Sosis Goreng",
+      "size": "100ml",
+      "harga": "10.000",
+      "link": "#",
+      "foto": "https://3.bp.blogspot.com/-PVoiOUT7pOg/WkntT5KzwRI/AAAAAAAABSE/4p6BzrYte-s3Xe1l_wko-JdQW_NM1rNVACLcBGAs/s1600/sosis%2Bgoreng.jpg"
+    },
+    {
+      "nama": "pisang Goreng",
+      "size": "100ml",
+      "harga": "10.000",
+      "link": "#",
+      "foto": "https://www.blibli.com/friends-backend/wp-content/uploads/2023/03/B300012-Cover-resep-pisang-goreng-1024x683.jpg"
+    },
+    {
+      "nama": "Bakwan",
+      "size": "100 ml",
+      "harga": "1.000",
+      "link": "#",
+      "foto": "https://tse4.mm.bing.net/th?id=OIP.E8TZao8exY21w_dBs7LFzQAAAA&pid=Api&P=0&h=180"
+    },
+    {
+      "nama": "Tahu Isi",
+      "size": "100 ml",
+      "harga": "1.000",
+      "link": "#",
+      "foto": "https://www.halojabar.com/wp-content/uploads/2023/04/Tahu-isi.jpg"
+    },
+    {
+      "nama": "Tempe Mendoan",
+      "size": "100 ml",
+      "harga": "1.000",
+      "link": "#",
+      "foto": "https://img-global.cpcdn.com/recipes/9f46031ec828a908/1502x1064cq70/tempe-mendoan-garing-foto-resep-utama.jpg"
+    }
+  ],
+  "Makanan Berat": [
+    {
+      "nama": "Nasi Goreng",
+      "size": "100ml",
+      "harga": "15.000",
+      "link": "#",
+      "foto": "https://tse1.mm.bing.net/th?id=OIP.yn0e5SrfTPm2dq4TCBSrwAHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "nama": "Mie Ayam",
+      "size": "100ml",
+      "harga": "15.000",
+      "link": "#",
+      "foto": "https://tse2.mm.bing.net/th?id=OIP.J2FkQTnX_h__qYlLhx8DYgHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "nama": "Soto",
+      "size": "100ml",
+      "harga": "15.000",
+      "link": "#",
+      "foto": "https://www.konteks.co.id/wp-content/uploads/2023/03/soto-ayam.png"
+    },
+    {
+      "nama": "Seblak",
+      "size": "100ml",
+      "harga": "15.000",
+      "link": "#",
+      "foto": "https://www.dapurkintamani.com/wp-content/uploads/2021/10/seblak-kuah-ceker.webp"
+    },
+    {
+      "nama": "Mie Kuali",
+      "size": "100ml",
+      "harga": "15.000",
+      "link": "#",
+      "foto": "https://tse1.mm.bing.net/th?id=OIP.UupzWUPWNgWOkPqswYazDAHaEK&pid=Api&P=0&h=180"
+    },
+    {
+      "nama": "Bakso",
+      "size": "100ml",
+      "harga": "15.000",
+      "link": "#",
+      "foto": "https://tse4.mm.bing.net/th?id=OIP.q6Xz5cE22hL6thHixY7pWAHaGL&pid=Api&P=0&h=180"
+    }
+  ]
+}
